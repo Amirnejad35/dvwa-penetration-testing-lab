@@ -103,7 +103,7 @@ MIT License – free to use, share, and modify with attribution.
 
 👤 Author
 
-*Amir Nejad*
+Amir Nejad
 https://www.linkedin.com/in/amir-nejad98 * https://github.com/Amirnejad35
 
 
