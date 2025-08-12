@@ -1,0 +1,2 @@
+# Directory enumeration against DVWA target
+gobuster dir -u http://TARGET_IP/dvwa/ -w /usr/share/wordlists/dirb/common.txt -o gobuster_scan.txt

